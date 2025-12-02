@@ -2,7 +2,7 @@ This project is a small end-to-end data engineering pipeline I built to practice
 
 Tech Stack: Python, Pandas, DuckDB
 
-🔁 Pipeline Steps
+Pipeline Steps
 
 Ingest: create synthetic CSV files of trip data
 
